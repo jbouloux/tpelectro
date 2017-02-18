@@ -1,0 +1,10 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~TP2.PrjPcb|ReportField=ProjectFullPath~C:\Users\bocal\Desktop\tpelectro-master\TP2.PrjPcb|ReportField=Title~Bill of Materials For Project [TP2.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~23|ReportField=ReportTime~2:34:42 PM|ReportField=ReportDate~2/18/2017|ReportField=ReportDateTime~2/18/2017 2:34:42 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2/18/2017|ReportField=CurrentTime~2:34:40 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\bocal\Desktop\tpelectro-master\TP2.SchDoc|ReportField=DocumentName~TP2.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2/18/2017|ReportField=Organization~|ReportField=ProjectName~TP2.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~TP2.PrjPcb|ReportField=DataSourceFullPath~C:\Users\bocal\Desktop\tpelectro-master\TP2.PrjPcb
+10uF|Capacitor|C?|RAD-0.3|Cap|2
+20pF|Capacitor|C?|RAD-0.3|Cap|2
+100nF|Capacitor|C?|RAD-0.3|Cap|6
+Green LED|Typical INFRARED GaAs LED|D?_LED0, D?_LED1, D?_LED2, D?_LED3|LED-0|LED0|4
+Program / Debug||J?||Program debug|1
+1K|Potentiometer|R?|VR5|RPot|1
+Res1|Resistor|R?, R?_LED0, R?_LED1, R?_LED2, R?_LED3|AXIAL-0.3|Res1|5
+PIC32MX764F128H-I/PT||U?||PIC32MX764F128H-I/PT|1
+8MHz|Crystal Oscillator|Y?|R38|XTAL|1
