@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:06:34 PM On 2/18/2017
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [TP2.PrjPcb]
+   Generated File[Bill of Materials-TP2.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:06:39 PM On 2/18/2017
